@@ -62,3 +62,33 @@ Periodo de retención: los datos locales se conservan mientras tengas la app
 instalada y se eliminan al desinstalarla. No hay retención en servidores.
 
 Para cualquier duda: serralirico@gmail.com
+
+---
+
+DATA DELETION
+
+The Meeplemancer app stores your data (games, wishlist, statistics, notes)
+LOCALLY on your device, using an internal database. It is not stored on any
+external server.
+
+How to delete your data:
+
+1. Partial deletion: within the app you can delete games, sessions and other
+   records individually at any time.
+
+2. Full deletion: uninstalling the app from your device automatically removes
+   ALL data stored locally.
+
+3. Google Account (optional): if you signed in with Google, the app only uses
+   your name and email to authenticate you; no data of yours is kept on
+   servers. You can revoke access at
+   https://myaccount.google.com/permissions
+
+Third-party data: photos from the scanner are sent to the Gemini API only to
+identify the game and are NOT stored. Ads (Google AdMob) use the advertising
+identifier, which you can reset from your device settings.
+
+Retention period: local data is kept while the app is installed and is deleted
+when you uninstall it. There is no server-side retention.
+
+Contact: serralirico@gmail.com
