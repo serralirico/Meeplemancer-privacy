@@ -15,7 +15,7 @@ Meeplemancer respeta tu privacidad. Esta política explica qué datos maneja la 
 
 **Tus derechos:** puedes borrar todos tus datos desinstalando la aplicación o cerrando sesión.
 
-**Contacto:** serralirico@gmail.com
+**Contacto:** meeplemancer@gmail.com
 
 ---
 
@@ -32,7 +32,7 @@ Meeplemancer respects your privacy. This policy explains what data the app handl
 
 **Your rights:** you can delete all your data by uninstalling the app or signing out.
 
-**Contact:** serralirico@gmail.com
+**Contact:** meeplemancer@gmail.com
 
 ELIMINACIÓN DE DATOS
 
@@ -61,7 +61,7 @@ desde los ajustes de tu dispositivo.
 Periodo de retención: los datos locales se conservan mientras tengas la app
 instalada y se eliminan al desinstalarla. No hay retención en servidores.
 
-Para cualquier duda: serralirico@gmail.com
+Para cualquier duda: meeplemancer@gmail.com
 
 ---
 
@@ -91,4 +91,4 @@ identifier, which you can reset from your device settings.
 Retention period: local data is kept while the app is installed and is deleted
 when you uninstall it. There is no server-side retention.
 
-Contact: serralirico@gmail.com
+Contact: meeplemancer@gmail.com
